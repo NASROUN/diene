@@ -1,0 +1,22 @@
+Device Model                                     iPhone XR                             iPhone XR                             Normal
+Device Color                                     Front Black£¬Rear Black               Front Black£¬Rear Black               Normal
+Hard Disk Capacity                               64GB                                  64GB Toshiba          TLC             Normal
+Sales Model                                      MRY42                                 MRY42                                 Normal
+Sales Area                                       ZD/A                                  ZD/A                                  Normal
+Model Number                                     A2105                                 A2105                                 Normal
+Buletooth Address                                F8:2D:7C:04:A4:9B                     F8:2D:7C:04:A4:9B                     Normal
+Cellular Address                                 F8:2D:7C:05:8E:3A                     F8:2D:7C:05:8E:3A                     Normal
+Wi-Fi Address                                    F8:2D:7C:04:20:DE                     F8:2D:7C:04:20:DE                     Normal
+Serial Number                                    C7CXQ11AKXK1 2018-11-25               C7CXQ11AKXK1 2018-11-25               Normal
+Mainboard Serial No.                             C7H8472062CJKWMFL 2018-11-20          C7H8472062CJKWMFL 2018-11-20          Normal
+Battery Serial Number                            FG984440DFQJKGX59 2018-11-01          FG984440DFQJKGX59 2018-11-01          Normal
+Rear Camera                                      DN884533CD2HYMW2X 2018-11-07          DN884533CD2HYMW2X 2018-11-07          Normal
+Front Camera                                     G8R8436CC94JH813E 2018-10-27          G8R8436CC94JH813E 2018-10-27          Normal
+Screen Serial Number                             N/A                                   User decision needed                  N/A
+
+Production Date 2018/11/25 (47th Week )          Warranty Date N/A                     Apple ID djibrildiene2@gmail.com
+iOS Version 13.3 (17C54)                         Activated yes                          Jailbroken No
+Battery Life 100%                                Charge Times 62 Times                 Wi-Fi Module High Temp Wi-Fi
+Carrier Status No SIM detected                   Verify Serial Number Yes              Verify UDID Yes
+
+Verification completed, no abnormalities found Report Date 2019-12-22
